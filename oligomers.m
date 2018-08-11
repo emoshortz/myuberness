@@ -2,8 +2,6 @@
 % analyze all of the configurations in that file and
 % create separate numerical and graphical population
 % maps for a user-specified oligomer size.
-% Created by: Emily Garza
-% Created on: Feb 23, 2010
 
 oligorows = 21;                                             % specify matrix dimensions
 oligocols = 13;
